@@ -1,0 +1,19 @@
+{
+  "vendor": "wedigi",
+  "name": "dynamic-menu",
+  "version": "0.0.0",
+  "title": "Dynamic menu",
+  "description": "Simple menu created through the category api",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "store": "0.x",
+    "docs": "0.x"
+  },
+  "dependencies": {},
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
